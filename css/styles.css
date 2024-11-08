@@ -828,8 +828,16 @@ footer {
         float: none
     }
 
+    .project {
+        flex-direction: column;
+    }
+
     .project-image {
-        display: none
+        padding-top: 20px;
+        display: block
+    }
+    .project-image > img {
+        width: 80%;
     }
 
     .project-info {

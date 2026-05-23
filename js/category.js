@@ -366,12 +366,12 @@ $(document).ready(function () {
         },
         {
           file: "ai/ads/ferrari.mp4",
-          title: "Ferrari Roma - Coastal Cruise",
-          desc: "Cinematic, photorealistic presentation of the Ferrari Roma winding through European coastal highways during the perfect golden hour.",
+          title: "Ferrari Roma",
+          desc: "Cinematic, photorealistic presentation of the Ferrari Roma.",
         },
         {
           file: "ai/ads/napertskali.mp4",
-          title: "Napertskali Mineral Water",
+          title: "Napertskali",
           desc: "Refreshing high-speed fluid dynamics simulation capturing pristine mountain springs and crisp, active water droplets.",
         },
         {
